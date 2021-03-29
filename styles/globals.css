@@ -1,0 +1,16 @@
+
+
+* {
+  box-sizing: border-box;
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height:35px;
+  width: 100%;
+  background:  #343A40;
+  color: #B05570;
+  text-align: center;
+  padding-top: 5px;
+}
